@@ -1,0 +1,19 @@
+[
+  {
+    "userId": 1,
+    "username": "ali",
+    "password": "",
+    "gender": "male"
+  },
+  {
+    "userId": 2,
+    "username": "vali",
+    "gender": "male"
+  },
+  {
+    "userId": 3,
+    "username": "nodira",
+    "password": "",
+    "gender": "female"
+  }
+]
